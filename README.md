@@ -4,6 +4,7 @@
 Сучасний веб-сайт портфоліо, створений за допомогою Next.js, React Three Fiber та анімації GSAP. Проект демонструє інтерактивні 3D-елементи та плавні анімації для створення привабливого користувацького досвіду.
 
 [Демо-версія](https://yevhenii-portfolio.vercel.app/)
+[Github](https://github.com/Yevheniy2020/yevhenii-portfolio)
 
 ![Перегляд портфоліо](./diagram.svg)
 
